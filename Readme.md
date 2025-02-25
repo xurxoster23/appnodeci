@@ -1,5 +1,4 @@
-> **Warnnig:**
-Practica correspondiente al módulo-8 de DevOps
+![Warning](https://img.shields.io/badge/⚠️-Warning-orange)
 
 > Práctica para poner en conocimientos GitHub Actions
 
