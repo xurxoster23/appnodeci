@@ -1,4 +1,4 @@
-> [!NOTE].
+> .[!NOTE].
 
 > Práctica para poner en conocimientos GitHub Actions
 
