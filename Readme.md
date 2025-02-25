@@ -1,6 +1,6 @@
-[!NOTE]
+> [!NOTE]
 
-Práctica para poner en conocimientos GitHub Actions
+> Práctica para poner en conocimientos GitHub Actions
 
 [!TIP]
 
