@@ -1,4 +1,4 @@
-** Warnnig **
+> **Warnnig:**
 Practica correspondiente al módulo-8 de DevOps
 
 > Práctica para poner en conocimientos GitHub Actions
