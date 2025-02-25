@@ -2,9 +2,8 @@
 
 > Práctica para poner en conocimientos GitHub Actions
 
-[!TIP].
+![Matrix](https://img.shields.io/matrix/:roomAlias)
 
-Esta práctica está incluída en el repositorio correspondiente de los ejercicios del módulo 8
 
 [!IMPORTANT].
 
