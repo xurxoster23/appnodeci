@@ -10,9 +10,10 @@ Esta práctica está incluída en el repositorio correspondiente de los ejercici
 
 Debemos de poner atención al desarrollo de la práctica
 
-[!WARNNIG].
+::: warning
+Este proyecto requiere Node.js 18 o superior.
+:::
 
-Es una práctica propuesta en el temario correspondiente al módulo-8 DevOps
 
 [!CAUTION].
 
