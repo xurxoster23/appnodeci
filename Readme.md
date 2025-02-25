@@ -1,19 +1,19 @@
-> [!NOTE]
+> [!NOTE].
 
 > Práctica para poner en conocimientos GitHub Actions
 
-[!TIP]
+[!TIP].
 
 Esta práctica está incluída en el repositorio correspondiente de los ejercicios del módulo 8
 
-[!IMPORTANT]
+[!IMPORTANT].
 
 Debemos de poner atención al desarrollo de la práctica
 
-[!WARNNIG]
+[!WARNNIG].
 
 Es una práctica propuesta en el temario correspondiente al módulo-8 DevOps
 
-[!CAUTION]
+[!CAUTION].
 
 Seguir la práctica por el temario del curso
