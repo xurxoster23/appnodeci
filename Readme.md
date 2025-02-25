@@ -2,7 +2,8 @@
 
 > Práctica para poner en conocimientos GitHub Actions
 
-![Matrix](https://img.shields.io/matrix/:roomAlias)
+![Matrix](https://img.shields.io/matrix/Devormar)
+
 
 
 [!IMPORTANT].
